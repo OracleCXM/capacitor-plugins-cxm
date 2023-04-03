@@ -1,5 +1,5 @@
 {
-  "name": "capacitor-camera-cxm",
+  "name": "capacitor-camera-oj-cxm",
   "version": "5.0.0-alpha.1",
   "description": "The Camera API provides the ability to take a photo with the camera or choose an existing one from the photo album.",
   "main": "dist/plugin.cjs.js",
